@@ -46,7 +46,7 @@ We take reasonable measures to protect your information, but please understand t
 
 ## 7. Children’s Privacy
 
-Jungle Spin is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete it.
+Jungle Spin is not intended for children under the age of 18. We do not knowingly collect personal information from children under 18. If we become aware that we have collected personal information from a child under 18, we will take steps to delete it.
 
 ## 8. Changes to Privacy Policy
 
