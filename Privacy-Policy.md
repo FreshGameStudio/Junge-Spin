@@ -44,7 +44,7 @@ Jungle Spin contains simulated gambling elements. Please note that these simulat
 
 We take reasonable measures to protect your information, but please understand that no method of transmission or storage is completely secure. We cannot guarantee the absolute security of your data.
 
-## 7. Children’s Privacy
+## 7. Childrenâ€™s Privacy
 
 Jungle Spin is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete it.
 
